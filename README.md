@@ -9,6 +9,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -49,6 +50,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
