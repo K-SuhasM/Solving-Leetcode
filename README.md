@@ -9,6 +9,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -48,10 +49,15 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
