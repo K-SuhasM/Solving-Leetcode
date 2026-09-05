@@ -30,6 +30,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -40,6 +41,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -74,4 +76,5 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
