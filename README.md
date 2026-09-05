@@ -31,6 +31,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -52,6 +53,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
