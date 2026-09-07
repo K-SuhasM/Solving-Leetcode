@@ -20,6 +20,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0344-reverse-string/) | Easy |
