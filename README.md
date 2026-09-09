@@ -33,6 +33,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -44,6 +45,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
