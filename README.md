@@ -23,6 +23,7 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | [0058-length-of-last-word](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -49,12 +50,14 @@ Feel free to copy my solutions, but dont expect them to work flawlessly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
