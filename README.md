@@ -1,7 +1,6 @@
 # Solving-Leetcode
-I post my leetcode solutions in this repo. 
-
-Feel free to copy my solutions, but dont expect them to work flawlessly.
+A collection of my LeetCode solutions written in Python, created as part of my ongoing practice in Data Structures & Algorithms. <br>
+The repository serves as a record of the problems I solve, the approaches I learn, and my progress in improving problem-solving skills.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
