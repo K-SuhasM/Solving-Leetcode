@@ -19,6 +19,7 @@ The repository serves as a record of the problems I solve, the approaches I lear
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -50,6 +51,7 @@ The repository serves as a record of the problems I solve, the approaches I lear
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -121,5 +123,6 @@ The repository serves as a record of the problems I solve, the approaches I lear
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/K-SuhasM/Solving-Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
